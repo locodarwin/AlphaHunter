@@ -54,7 +54,7 @@ namespace AlphaHunter
             public static string sBotName = "AlphaHunter";
             public static string sBotDesc = "Bot Test";
             public static int iCitNum = 318855;
-            public static string sPassword = "shamma11";
+            public static string sPassword = "password";
             public static string sWorld = "Simulator";
             public static string sCoords = "0n 0w 0a 0";
             public static int iXPos = 0;
